@@ -1,0 +1,9 @@
+﻿  Player.cpp
+  mainUtil.cpp
+d:\school\gsp480\week8\gsp480_team_b_wk8_course_project_v3.0\gsp480_team_b_wk6_course_project\gsp480_course_project\mainutil.cpp(105): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Main.cpp
+  AI_Handler.cpp
+d:\school\gsp480\week8\gsp480_team_b_wk8_course_project_v3.0\gsp480_team_b_wk6_course_project\gsp480_course_project\ai_handler.cpp(118): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  GSP480_Course_Project.vcxproj -> D:\School\GSP480\Week8\GSP480_Team_B_WK8_Course_Project_v3.0\GSP480_Team_B_WK6_Course_Project\x64\Debug\GSP480_Course_Project.exe
+  GSP480_Course_Project.vcxproj -> D:\School\GSP480\Week8\GSP480_Team_B_WK8_Course_Project_v3.0\GSP480_Team_B_WK6_Course_Project\x64\Debug\GSP480_Course_Project.pdb (Full PDB)
